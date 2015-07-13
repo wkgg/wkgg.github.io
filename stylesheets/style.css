@@ -15,6 +15,8 @@ body {
   margin: 0; }
   body, body * {
     -webkit-font-smoothing: antialiased; }
+  body p {
+    margin: 0; }
 
 img {
   border: none; }
@@ -55,13 +57,13 @@ img {
   color: #8f8f8f; }
 
 .colour-1 {
-  color: #cc9944; }
+  color: #c94; }
 
 .colour-2 {
   color: #925; }
 
 .colour-3 {
-  color: #448844; }
+  color: #484; }
 
 .text-big {
   font-size: 24px;
@@ -360,3 +362,5 @@ img {
   margin-left: -340px; }
 .paging .right {
   margin-left: 320px; }
+
+/*# sourceMappingURL=style.css.map */
