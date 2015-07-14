@@ -3,7 +3,6 @@ description:      This is my personal blog, Talking something I want to talk
 url:              # Site url.
 signoff:          wkgg
 disqus_shortname: wkgg
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
